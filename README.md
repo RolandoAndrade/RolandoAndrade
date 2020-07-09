@@ -1,11 +1,18 @@
-### Hi there 👋
+### Hey, I'm Rolando Andrade 🍀
+
+🎓 Computer engineering | Universidad Católica Andrés Bello 🔰
+
+In my eagerness to change the world 🌎 I do a little bit of everything  💻📱💿🎥🎵📺🎨📚🎹🔭🔬💊🔮💰🚀⚽🏆🚩💯🗻📷💭📆🐼
+
+Here you will find several of my projects 🔍 Some of them very good 🤩 Others not so good 😢 I hope you can use them.
 
 <!--
 **RolandoAndrade/RolandoAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
