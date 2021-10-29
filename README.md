@@ -11,7 +11,7 @@
 
 In my eagerness to change the world 🌎 I do a little bit of everything  💻📱💿🎥🎵📺🎨📚🎹🔭🔬💊🔮💰🚀⚽🏆🚩💯🗻📷💭📆🐼
 
-Here you will find several of my projects 🔍 Some of them very good 🤩 Others not so good 😢 I hope you can use them.
+Here you will find several of my projects 🔍 Some of them very good, I hope you can use them 🤩.
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rolandoandrade&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=RolandoAndrade&count_private=true&show_icons=true&include_all_commits=true)
