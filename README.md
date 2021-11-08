@@ -5,7 +5,6 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/RolandoAndrade_)
 [![Quora](https://img.shields.io/badge/-Quora-red?style=flat&logo=Quora&logoColor=white)](https://www.quora.com/profile/Rolando-Andrade-Fernandez)
 [![npm](https://img.shields.io/badge/-npm-white?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~rolandoandrade)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rolandoandradefernandez@gmail.com)
 
 🎓 Computer engineering | Universidad Católica Andrés Bello 🔰
 
