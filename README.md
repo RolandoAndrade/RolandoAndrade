@@ -15,7 +15,7 @@
 
 
 <p align="center">
-🎓 Computer engineering | Universidad Católica Andrés Bello 🔰
+🎓 Computer engineering | Andrés Bello Catholic University (UCAB) 🔰
 </p>
 <p align="center">
   In my eagerness to change the world 🌎 I do a little bit of everything  💻📱💿🎥🎵📺🎨📚🎹🔭🔬💊🔮💰🚀⚽🏆🚩💯🗻📷💭📆🐼   
