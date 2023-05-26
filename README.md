@@ -1,8 +1,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rolando-andrade)
 [![Website](https://img.shields.io/badge/-Website-grey?style=flat&logo=JSONWebTokens&logoColor=white)](https://rolandoandrade.me)
 [![gitlab](https://img.shields.io/badge/-Gitlab-blueviolet?style=flat&logo=gitlab&logoColor=red)](https://www.gitlab.com/RolandoAndrade)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/rolandoandradefernandez/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/RolandoAndrade_)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/rolandoandrade.me/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/rolando_andrade)
 [![Quora](https://img.shields.io/badge/-Quora-red?style=flat&logo=Quora&logoColor=white)](https://www.quora.com/profile/Rolando-Andrade-Fernandez)
 [![npm](https://img.shields.io/badge/-npm-white?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~rolandoandrade)
 
